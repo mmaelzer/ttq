@@ -1,6 +1,6 @@
 {
   "name": "ttq",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A queue that tests its contents on an interval.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "test"
   ],
   "author": "Mike Maelzer <mmaelzer@gmail.com>",
-  "license": "BSD",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mmaelzer/ttq/issues"
   },
